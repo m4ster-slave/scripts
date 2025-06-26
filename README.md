@@ -6,3 +6,4 @@ The repo includes these scripts:
 
 - `gentoo_update.sh` a update script for gentoo so u can update your system in a single command
 - `bar.sh` xsetroot bar script for dwm or similar window manager
+- `display_mirror.sh` mirror displays on dwm - needed this for school lol
