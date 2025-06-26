@@ -8,3 +8,4 @@ The repo includes these scripts:
 - `bar.sh` xsetroot bar script for dwm or similar window manager
 - `display_mirror.sh` mirror displays on dwm - needed this for school lol
 - `burn.sh` cd burning script for cdrecord
+- `ip_switching_web_req.sh` make web requests and switch to a new vpn server after each request
